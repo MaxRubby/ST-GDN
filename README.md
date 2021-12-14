@@ -3,8 +3,6 @@ a hierarchically structured graph neural architecture which learns not only the 
 
 flowdatacheck.py: for the temporal resolution.
 
-attention.py: describe the self attention network.
-
 dc_cell.py and diffusionconv.py: the basic diffusion convolution network.
 
 ST-GDN-main.py.
