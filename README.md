@@ -7,4 +7,4 @@ attention.py: describe the self attention network.
 
 dc_cell.py and diffusionconv.py: the basic diffusion convolution network.
 
-ST-GDN-main.py: we adopt the total model to optimize the loss.
+ST-GDN-main.py.
